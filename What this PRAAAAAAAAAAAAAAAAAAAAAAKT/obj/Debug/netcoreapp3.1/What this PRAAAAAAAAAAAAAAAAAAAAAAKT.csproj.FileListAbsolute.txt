@@ -1,0 +1,22 @@
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.exe
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.deps.json
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.runtimeconfig.json
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.runtimeconfig.dev.json
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.pdb
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What_this_PRAAAAAAAAAAAAAAAAAAAAAAKT.Form1.resources
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.csproj.GenerateResource.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.AssemblyInfoInputs.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.AssemblyInfo.cs
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.csproj.CoreCompileInputs.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.pdb
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.genruntimeconfig.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.csprojAssemblyReference.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.csproj.ResolveComReference.cache
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\Shaman\source\repos\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\What this PRAAAAAAAAAAAAAAAAAAAAAAKT\obj\Debug\netcoreapp3.1\What this PRAAAAAAAAAAAAAAAAAAAAAAKT.csproj.CopyComplete
